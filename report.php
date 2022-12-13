@@ -24,10 +24,10 @@ try {
         <title>Report of Customer Orders</title>
     </head>
     <body>
-		<form action="http://e5-cse-431s2-079.vmhost.psu.edu/startmodel.php" method="get" target="_blank">
+		<form action="/startmodel.php" method="get" target="_blank">
          	<button type="submit">Models</button>
       		</form>
-		<form action="http://e5-cse-431s2-079.vmhost.psu.edu/start.php" method="get" target="_blank">
+		<form action="/start.php" method="get" target="_blank">
          	<button type="submit">Customers</button>
       		</form>
 	<h2>Report of Customer Orders</h2>

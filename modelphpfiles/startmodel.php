@@ -26,13 +26,13 @@ color2ex, option1in, option2in FROM modelinfo';
     </head>
     <body>
         <div id="container">
-	<form action="http://e5-cse-431s2-079.vmhost.psu.edu/start.php" method="get" target="_blank">
+	<form action="/start.php" method="get" target="_blank">
          	<button type="submit">Customers</button>
       		</form>
-		<form action="http://e5-cse-431s2-079.vmhost.psu.edu/report.php" method="get" target="_blank">
+		<form action="/report.php" method="get" target="_blank">
          	<button type="submit">Report of Customer Orders</button>
       		</form>
-		<form action="http://e5-cse-431s2-079.vmhost.psu.edu/startcolor.php" method="get" target="_blank">
+		<form action="/startcolor.php" method="get" target="_blank">
          	<button type="submit">Option 1 Interior Colors</button>
       		</form>
             <h2>Current List of models</h2>
