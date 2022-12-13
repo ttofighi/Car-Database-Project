@@ -1,5 +1,5 @@
 # Car-Database-Project
-Car Database partially based on these records: https://github.com/abhionlyone/us-car-models-data/blob/master/2020.csv
+Car dealership database partially based on these records: https://github.com/abhionlyone/us-car-models-data/blob/master/2020.csv
 
 All of the other values besides model in tables vehicles and modelinfo are not real and randomized.
 
